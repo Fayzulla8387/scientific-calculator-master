@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,7 +14,7 @@
     <meta property="og:url" content="https://yogeshiitm.github.io/scientific-calculator/" />
     <meta property="og:type" content="Calculator">
 
-    <title>Yogesh Agarwala | Calculator</title>
+    <title>Calculator</title>
     <!-- Favicon-->
     <link rel="icon" type="image/png" href="images/favicon.png" />
 
@@ -51,7 +50,7 @@
                         <!-- new blue color -->
                         <div class="col px-2 text-center newblue">
                             <a class="hrefWithoutDecoration" href="/">
-                                <h1 style="margin: 0% !important;">Calculator <i class="fa fa-external-link" style="font-size:15px"></i></h1>
+                                <h1 style="margin: 0% !important;">Calculator</h1>
                             </a>
                         </div>
                     </div>
@@ -438,22 +437,7 @@
     </div> -->
 
     <!-- temporarily hidden the above contact details from the webapp for intern season 2021-22 -->
-    <div id="content-mobile">
-        <div class="copyright py-4 text-center text-dark">
-            <div class="container">
-                <small>
-                    <a target="_blank" class="hrefWithoutDecoration2" href="https://yogeshiitm.github.io/">Copyright © Yogesh Agarwala 2020  &nbsp;<small><i style="color:#007bff !important;" class="fa fa-external-link" aria-hidden="true"> </i></small></a>
-                </small>
-            </div>
-        </div>
-    </div>
-    <div id="content-desktop">
-        <div class="copyright py-4 text-center text-dark">
-            <div class="container">
-                <a target="_blank" class="hrefWithoutDecoration2" href="https://yogeshiitm.github.io/">Copyright © Yogesh Agarwala 2020  &nbsp;<small><i style="color:#007bff !important;" class="fa fa-external-link" aria-hidden="true"> </i></small></a>
-            </div>
-        </div>
-    </div>
+
 
 </body>
 
